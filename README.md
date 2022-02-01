@@ -29,7 +29,7 @@ ghci
 :load case1.hs
 ```
 
-4. Call functions interactively within ghci
+4. Call functions interactively within ghci (eg. case 1 is crack "any string")
 ```
 crack "haskell"
 ```
